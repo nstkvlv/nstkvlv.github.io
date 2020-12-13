@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "files": [
+        "libSIAbout.dylib",
+        "libSIHelper.dylib",
+        "libSIHelperClass.dylib",
+        "libSINetworkStyle.dylib",
+        "libSIStyleBackground.dylib",
+        "libSIStyleFont.dylib",
+        "libSIStyleFontBold.dylib"
+    ]
+}
